@@ -2,14 +2,20 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Sugupuu</title>
+    <title>XML</title>
 </head>
 <body>
-    <h1>Sugupuu kuvamine</h1>
+    <h2>Sugupuu kuvamine</h2>
     <div>
         <asp:Xml runat="server" 
-            DocumentSource="~/pyhiandmed.xml"
-            TransformSource="~/pyhiandmeteLisa.xslt" />
+            DocumentSource="~/Sugupuu/pyhiandmed.xml"
+            TransformSource="~/Sugupuu/pyhiandmeteLisa.xslt" />
+    </div>
+    <h2>Auto kuvamine</h2>
+    <div>
+        <asp:Xml runat="server" 
+            DocumentSource="~/Auto/autod.xml"
+            TransformSource="~/Auto/autodLisa.xslt" />
     </div>
 </body>
 </html>

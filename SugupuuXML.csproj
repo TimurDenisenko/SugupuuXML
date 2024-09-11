@@ -102,7 +102,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="autod.xml" />
+    <Content Include="Auto\autod.xml" />
+    <Content Include="Auto\autodLisa.xslt" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -123,8 +124,8 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="pyhiandmed.xml" />
-    <Content Include="pyhiandmeteLisa.xslt">
+    <Content Include="Sugupuu\pyhiandmed.xml" />
+    <Content Include="Sugupuu\pyhiandmeteLisa.xslt">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Scripts\bootstrap.bundle.js" />
