@@ -5,17 +5,27 @@
     <title>XML</title>
 </head>
 <body>
-    <h2>Sugupuu kuvamine</h2>
-    <div>
+    <h1>Sugupuu kuvamine</h1>
+    <div style="border:3px solid black;">
         <asp:Xml runat="server" 
             DocumentSource="~/Sugupuu/pyhiandmed.xml"
             TransformSource="~/Sugupuu/pyhiandmeteLisa.xslt" />
     </div>
-    <h2>Auto kuvamine</h2>
-    <div>
+    <br />
+    <br />
+    <h1>Auto kuvamine</h1>
+    <div style="overflow-y: scroll; height: 500px; border:3px solid black;">
         <asp:Xml runat="server" 
             DocumentSource="~/Auto/autod.xml"
             TransformSource="~/Auto/autodLisa.xslt" />
+    </div>
+    <br />
+    <br />
+    <h1>Reisi kuvamine</h1>
+    <div style="overflow-y: scroll; height: 500px; border:3px solid black;">
+        <asp:Xml runat="server" 
+            DocumentSource="~/Reis/reisid.xml"
+            TransformSource="~/Reis/reisidLisa.xslt" />
     </div>
 </body>
 </html>

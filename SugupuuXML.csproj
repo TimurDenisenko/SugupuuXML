@@ -103,7 +103,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Auto\autod.xml" />
-    <Content Include="Auto\autodLisa.xslt" />
+    <Content Include="Auto\autodLisa.xslt">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -124,6 +126,8 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Reis\reisid.xml" />
+    <Content Include="Reis\reisidLisa.xslt" />
     <Content Include="Sugupuu\pyhiandmed.xml" />
     <Content Include="Sugupuu\pyhiandmeteLisa.xslt">
       <SubType>Designer</SubType>

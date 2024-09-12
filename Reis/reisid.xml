@@ -1,0 +1,963 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisid>
+	<reis reisinimi="Potassium Chloride">
+		<lahtekoht>Ahe Airport</lahtekoht>
+		<sihtkoht>Sparrevohn LRRS Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-09-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7392.70</koguhind>
+		<reisigrupi_suurus>15</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Smart Sense Allergy Relief">
+		<lahtekoht>Hurghada International Airport</lahtekoht>
+		<sihtkoht>Wilkes Barre Scranton International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-11-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5836.40</koguhind>
+		<reisigrupi_suurus>5</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Sunmark Naproxen Sodium">
+		<lahtekoht>Bull Harbour Water Aerodrome</lahtekoht>
+		<sihtkoht>Taba International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-29</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1187.40</koguhind>
+		<reisigrupi_suurus>9</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Quetiapine Fumarate">
+		<lahtekoht>Kentland Municipal Airport</lahtekoht>
+		<sihtkoht>Kabri Dehar Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-08</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1068.06</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="rexall anti diarrheal">
+		<lahtekoht>Lukla Airport</lahtekoht>
+		<sihtkoht>Sacramento International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8164.99</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="EXFOLIKATE ACNE">
+		<lahtekoht>Sam Ratulangi Airport</lahtekoht>
+		<sihtkoht>Zadar Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-19</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5309.18</koguhind>
+		<reisigrupi_suurus>14</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="LEVOTHYROXINE SODIUM">
+		<lahtekoht>Atikokan Municipal Airport</lahtekoht>
+		<sihtkoht>Mackall Army Air Field</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-03</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8027.57</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Acyclovir">
+		<lahtekoht>Hodeidah International Airport</lahtekoht>
+		<sihtkoht>Grant County Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-10-25</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9494.06</koguhind>
+		<reisigrupi_suurus>25</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Hog Hair">
+		<lahtekoht>Lyall Harbour Seaplane Base</lahtekoht>
+		<sihtkoht>Steamboat Bay Seaplane Base</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-31</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3718.27</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Rexall Pain Relief">
+		<lahtekoht>Okeechobee County Airport</lahtekoht>
+		<sihtkoht>Straubing Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-31</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3697.73</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Diphenhydramine HCl">
+		<lahtekoht>Diqing Airport</lahtekoht>
+		<sihtkoht>Beverly Municipal Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-11-03</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3737.44</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="leader acid reducer">
+		<lahtekoht>Sultan Ismail Petra Airport</lahtekoht>
+		<sihtkoht>Pembroke Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-09-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6808.18</koguhind>
+		<reisigrupi_suurus>16</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="MEDI-DERM">
+		<lahtekoht>Scone Airport</lahtekoht>
+		<sihtkoht>Liuzhou Bailian Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-15</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4756.88</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Alprazolam">
+		<lahtekoht>Khanty Mansiysk Airport</lahtekoht>
+		<sihtkoht>Memphis International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-11-02</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6666.23</koguhind>
+		<reisigrupi_suurus>18</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Benazepril Hydrochloride">
+		<lahtekoht>Gayndah Airport</lahtekoht>
+		<sihtkoht>Joensuu Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-11-03</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3700.56</koguhind>
+		<reisigrupi_suurus>8</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="ProStat Antiseptic First Aid">
+		<lahtekoht>Clearwater Air Park</lahtekoht>
+		<sihtkoht>York Landing Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-21</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6829.36</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Dermaheal Cosmeceutical Mask Pack Plus">
+		<lahtekoht>Kishangarh Airport</lahtekoht>
+		<sihtkoht>Grozny North Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-10-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4375.11</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="MEGACE">
+		<lahtekoht>Pedro Bay Airport</lahtekoht>
+		<sihtkoht>Juan Gualberto Gomez International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-11-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9512.10</koguhind>
+		<reisigrupi_suurus>7</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Laura mercier Tinted Moisturizer SPF-20 Fawn">
+		<lahtekoht>Port Moller Airport</lahtekoht>
+		<sihtkoht>Cairo West Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-14</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1606.30</koguhind>
+		<reisigrupi_suurus>18</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="MediChoice PVP Swabsticks">
+		<lahtekoht>Ijuí Airport</lahtekoht>
+		<sihtkoht>Kauehi Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-11-03</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8801.40</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Meperidine Hydrochloride">
+		<lahtekoht>Man Airport</lahtekoht>
+		<sihtkoht>King Hussein Air College</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-01</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8681.33</koguhind>
+		<reisigrupi_suurus>12</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="OXYCODONE HYDROCHLORIDE">
+		<lahtekoht>Tamchakett Airport</lahtekoht>
+		<sihtkoht>Mahana Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-07</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8013.12</koguhind>
+		<reisigrupi_suurus>15</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Climate Adaptation Cold and Dry">
+		<lahtekoht>Bunbury Airport</lahtekoht>
+		<sihtkoht>Nakhchivan Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4538.89</koguhind>
+		<reisigrupi_suurus>23</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="OPANA">
+		<lahtekoht>Gobabis Airport</lahtekoht>
+		<sihtkoht>Dargaville Aerodrome</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-09-27</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4163.30</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="MEVACOR">
+		<lahtekoht>Sepik Plains Airport</lahtekoht>
+		<sihtkoht>São Pedro da Aldeia Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-24</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4477.82</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="pain relief">
+		<lahtekoht>Deception Airport</lahtekoht>
+		<sihtkoht>Stephenville Clark Regional Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-10-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6339.55</koguhind>
+		<reisigrupi_suurus>16</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="infants pain and fever">
+		<lahtekoht>Whitesburg Municipal Airport</lahtekoht>
+		<sihtkoht>Ileg Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-10-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4659.55</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Vanilla Hand Sanitizer">
+		<lahtekoht>Quesnel Airport</lahtekoht>
+		<sihtkoht>Anyang Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-17</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1135.96</koguhind>
+		<reisigrupi_suurus>25</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Phytolacca">
+		<lahtekoht>Mount Keith Airport</lahtekoht>
+		<sihtkoht>Breves Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-11-11</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5431.28</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Metoprolol Tartrate">
+		<lahtekoht>Inyokern Airport</lahtekoht>
+		<sihtkoht>Kitoi Bay Seaplane Base</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-09</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6301.79</koguhind>
+		<reisigrupi_suurus>9</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Ephedrine Sulfate">
+		<lahtekoht>Port Alice Seaplane Base</lahtekoht>
+		<sihtkoht>Cox's Bazar Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-11-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4362.02</koguhind>
+		<reisigrupi_suurus>8</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Ceftriaxone">
+		<lahtekoht>RAAF Base Curtin</lahtekoht>
+		<sihtkoht>Trat Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-23</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4511.77</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Haloperidol">
+		<lahtekoht>Coldfoot Airport</lahtekoht>
+		<sihtkoht>Antrim County Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-06</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1330.65</koguhind>
+		<reisigrupi_suurus>15</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Clindamycin hydrochloride">
+		<lahtekoht>Sicogon Airstrip</lahtekoht>
+		<sihtkoht>Powell Lake Seaplane Base</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-11-06</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3620.86</koguhind>
+		<reisigrupi_suurus>14</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="ENALAPRIL MALEATE">
+		<lahtekoht>Tokeen Seaplane Base</lahtekoht>
+		<sihtkoht>Santa Terezinha Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-10-23</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3191.65</koguhind>
+		<reisigrupi_suurus>16</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Up and Up Childrens Mucus Relief and Cough">
+		<lahtekoht>Bukhara Airport</lahtekoht>
+		<sihtkoht>Nanyuki Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-09</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3740.89</koguhind>
+		<reisigrupi_suurus>24</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Lunesta">
+		<lahtekoht>Jos Orno Imsula Airport</lahtekoht>
+		<sihtkoht>Manja Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-09-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9934.00</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Equate Childrens Pain and Fever">
+		<lahtekoht>Igloolik Airport</lahtekoht>
+		<sihtkoht>Wangerooge Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4794.38</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Warfarin Sodium">
+		<lahtekoht>Cudal Airport</lahtekoht>
+		<sihtkoht>Boma Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3748.03</koguhind>
+		<reisigrupi_suurus>14</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Azulfidine">
+		<lahtekoht>Santa Rosa Airport</lahtekoht>
+		<sihtkoht>Dundee Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-17</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3874.34</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="promethazine hydrochloride and codeine phosphate">
+		<lahtekoht>Dolpa Airport</lahtekoht>
+		<sihtkoht>Boundary Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-13</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6797.80</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Instant Hand Sanitizer Green Apple Scented">
+		<lahtekoht>Scott AFB/Midamerica Airport</lahtekoht>
+		<sihtkoht>Homestead ARB Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6985.43</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Badger SunScreen">
+		<lahtekoht>Susanville Municipal Airport</lahtekoht>
+		<sihtkoht>Selawik Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-10-23</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5188.82</koguhind>
+		<reisigrupi_suurus>9</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Contac Cold and Flu">
+		<lahtekoht>Tshabong Airport</lahtekoht>
+		<sihtkoht>Querétaro Intercontinental Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-09-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8044.36</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Softlips">
+		<lahtekoht>Westerly State Airport</lahtekoht>
+		<sihtkoht>Sancti Spiritus Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-10-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5512.83</koguhind>
+		<reisigrupi_suurus>22</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Quetiapine Fumarate">
+		<lahtekoht>Mildura Airport</lahtekoht>
+		<sihtkoht>Skopje Alexander the Great Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-15</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5772.98</koguhind>
+		<reisigrupi_suurus>23</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Simvastatin">
+		<lahtekoht>Loralai Airport</lahtekoht>
+		<sihtkoht>Cenej Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-04</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3800.13</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Zonisamide">
+		<lahtekoht>Gjoa Haven Airport</lahtekoht>
+		<sihtkoht>Ann Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-09-25</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4397.85</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Germ Bloc Hand Sanitizer">
+		<lahtekoht>Goya Airport</lahtekoht>
+		<sihtkoht>Gabbs Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-11-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3178.53</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Calamine">
+		<lahtekoht>Stavropol Shpakovskoye Airport</lahtekoht>
+		<sihtkoht>Man Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-10-09</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3126.04</koguhind>
+		<reisigrupi_suurus>16</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Gastrotone">
+		<lahtekoht>Santa Cruz Sky Park</lahtekoht>
+		<sihtkoht>Lyons-Rice County Municipal Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-10-15</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3177.92</koguhind>
+		<reisigrupi_suurus>24</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Jantoven">
+		<lahtekoht>Henbury Airport</lahtekoht>
+		<sihtkoht>Ja'Aluni Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-07</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9321.83</koguhind>
+		<reisigrupi_suurus>18</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="CAREONE">
+		<lahtekoht>Tenakee Seaplane Base</lahtekoht>
+		<sihtkoht>Fond-Du-Lac Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-24</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9120.74</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Pediatric Glycerin">
+		<lahtekoht>Isla Mujeres Airport</lahtekoht>
+		<sihtkoht>Austin Robert Mueller Municipal</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-09-25</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4314.81</koguhind>
+		<reisigrupi_suurus>24</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Thioridazine Hydrochloride">
+		<lahtekoht>Port Sudan New International Airport</lahtekoht>
+		<sihtkoht>Tambao Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-10-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2439.74</koguhind>
+		<reisigrupi_suurus>12</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Ranitidine Hydrochloride">
+		<lahtekoht>Neyveli Airport</lahtekoht>
+		<sihtkoht>Jacksonville International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-17</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7465.17</koguhind>
+		<reisigrupi_suurus>13</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Good Sense Hemorrhoidal">
+		<lahtekoht>Liverpool John Lennon Airport</lahtekoht>
+		<sihtkoht>Mara Serena Lodge Airstrip</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-10-24</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4078.37</koguhind>
+		<reisigrupi_suurus>9</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Candida HP">
+		<lahtekoht>Malevo Airport</lahtekoht>
+		<sihtkoht>Malikus Saleh Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-18</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6149.72</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Cold Sore Treatment">
+		<lahtekoht>Normanton Airport</lahtekoht>
+		<sihtkoht>K. D. Matanzima Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8853.09</koguhind>
+		<reisigrupi_suurus>22</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Sween 24">
+		<lahtekoht>Bowman Field</lahtekoht>
+		<sihtkoht>Tselserleg Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-11-02</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4571.14</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Guanfacine Hydrochloride">
+		<lahtekoht>Yinchuan Hedong International Airport</lahtekoht>
+		<sihtkoht>Angads Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2004.85</koguhind>
+		<reisigrupi_suurus>7</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="hemorrhoidal">
+		<lahtekoht>Northeast Alabama Regional Airport</lahtekoht>
+		<sihtkoht>Pyay Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-10-09</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3892.54</koguhind>
+		<reisigrupi_suurus>18</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Armarita">
+		<lahtekoht>Bitam Airport</lahtekoht>
+		<sihtkoht>Tsushima Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4486.89</koguhind>
+		<reisigrupi_suurus>18</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Gillette Mach 3 Invisible">
+		<lahtekoht>Fritzlar Airport</lahtekoht>
+		<sihtkoht>Joint Base Balad</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-09-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5505.51</koguhind>
+		<reisigrupi_suurus>7</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Ibuprofen">
+		<lahtekoht>Zambezi Airport</lahtekoht>
+		<sihtkoht>Donskoye Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-09-29</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1709.13</koguhind>
+		<reisigrupi_suurus>10</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Imipramine Hydrochloride">
+		<lahtekoht>Newcastle Airport</lahtekoht>
+		<sihtkoht>Cape Cod Coast Guard Air Station</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-01</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3637.16</koguhind>
+		<reisigrupi_suurus>12</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Haloperidol Decanoate">
+		<lahtekoht>Batajnica Air Base</lahtekoht>
+		<sihtkoht>Palmas del Mar Airstrip</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-09-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2566.89</koguhind>
+		<reisigrupi_suurus>24</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Scandonest Plain">
+		<lahtekoht>San Juan Airport</lahtekoht>
+		<sihtkoht>Cataratas Del Iguazú International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3706.43</koguhind>
+		<reisigrupi_suurus>10</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="PURELL Advanced Hand Sanitizer Winterberry Delight">
+		<lahtekoht>Margaret River Airport</lahtekoht>
+		<sihtkoht>Oshima Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-09-25</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1021.87</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Trixaicin HP">
+		<lahtekoht>Buffalo Spring</lahtekoht>
+		<sihtkoht>Khaneh Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3623.51</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Ironman Glory">
+		<lahtekoht>Osan Air Base</lahtekoht>
+		<sihtkoht>Kruger Mpumalanga International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-19</alguskuupaev>
+			<loppkuupaev>2024-09-26</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8017.12</koguhind>
+		<reisigrupi_suurus>15</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="ESIKA">
+		<lahtekoht>Ambler Airport</lahtekoht>
+		<sihtkoht>Regina Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-09-28</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3324.07</koguhind>
+		<reisigrupi_suurus>20</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Trazodone Hydrochloride">
+		<lahtekoht>Maio Airport</lahtekoht>
+		<sihtkoht>Canela Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-10-22</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7424.59</koguhind>
+		<reisigrupi_suurus>15</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Thyro Tonic">
+		<lahtekoht>Tucumã Airport</lahtekoht>
+		<sihtkoht>Martubah Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-04</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5333.94</koguhind>
+		<reisigrupi_suurus>21</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="SudoGest">
+		<lahtekoht>Bourges Airport</lahtekoht>
+		<sihtkoht>Ndolo Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-09-29</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>9543.72</koguhind>
+		<reisigrupi_suurus>23</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="emmi dent Sodium Fluoride Anticavity Mild">
+		<lahtekoht>Picos Airport</lahtekoht>
+		<sihtkoht>Can Tho International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-10</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2956.48</koguhind>
+		<reisigrupi_suurus>22</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Oxcarbazepine">
+		<lahtekoht>Zoersel (Oostmalle) Airfield</lahtekoht>
+		<sihtkoht>Gloucestershire Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-11-06</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8361.75</koguhind>
+		<reisigrupi_suurus>6</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Icy Hot Back">
+		<lahtekoht>Inishmore Aerodrome</lahtekoht>
+		<sihtkoht>Astrakhan Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-10-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>6446.38</koguhind>
+		<reisigrupi_suurus>14</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Lorcet 10/650">
+		<lahtekoht>Djumu-Djomoe Airport</lahtekoht>
+		<sihtkoht>Ellamar Seaplane Base</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-11-07</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1941.55</koguhind>
+		<reisigrupi_suurus>23</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="infants ibuprofen">
+		<lahtekoht>Port Bergé Airport</lahtekoht>
+		<sihtkoht>Essex County Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-20</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>1552.61</koguhind>
+		<reisigrupi_suurus>8</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Mucus Relief DM Max">
+		<lahtekoht>Errol Airport</lahtekoht>
+		<sihtkoht>Griffith Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-11-04</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2129.75</koguhind>
+		<reisigrupi_suurus>25</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Stool Softener">
+		<lahtekoht>Gobernador Horacio Guzman International Airport</lahtekoht>
+		<sihtkoht>Sadah Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-13</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8617.29</koguhind>
+		<reisigrupi_suurus>21</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Acular">
+		<lahtekoht>Fort MacKay/Albian Aerodrome</lahtekoht>
+		<sihtkoht>Raroia Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-24</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>5862.66</koguhind>
+		<reisigrupi_suurus>7</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Diclofenac Sodium">
+		<lahtekoht>Oombulgurri Airport</lahtekoht>
+		<sihtkoht>Baures Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-11-02</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>3251.32</koguhind>
+		<reisigrupi_suurus>24</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Prednisone">
+		<lahtekoht>Tottori Airport</lahtekoht>
+		<sihtkoht>Glengyle Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-25</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4426.67</koguhind>
+		<reisigrupi_suurus>9</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Spironolactone">
+		<lahtekoht>Rochester International Airport</lahtekoht>
+		<sihtkoht>Golfo de Morrosquillo Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-09-30</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7125.62</koguhind>
+		<reisigrupi_suurus>19</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="CVS Extra Strength Cold and Hot Medicated Patch">
+		<lahtekoht>Kimble County Airport</lahtekoht>
+		<sihtkoht>Laconia Municipal Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-14</alguskuupaev>
+			<loppkuupaev>2024-11-05</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8884.94</koguhind>
+		<reisigrupi_suurus>14</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Alendronate Sodium">
+		<lahtekoht>Vryheid Airport</lahtekoht>
+		<sihtkoht>Tri State Steuben County Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-16</alguskuupaev>
+			<loppkuupaev>2024-10-29</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2769.96</koguhind>
+		<reisigrupi_suurus>23</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Diclofenac Sodium">
+		<lahtekoht>Patrick Air Force Base</lahtekoht>
+		<sihtkoht>Del Rio International Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-17</alguskuupaev>
+			<loppkuupaev>2024-11-09</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7966.56</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Fenofibrate">
+		<lahtekoht>Thumrait Air Base</lahtekoht>
+		<sihtkoht>Digby / Annapolis Regional Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-10-18</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2559.24</koguhind>
+		<reisigrupi_suurus>7</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Constipation Relief">
+		<lahtekoht>Meyers Chuck Seaplane Base</lahtekoht>
+		<sihtkoht>Tancredo Thomas de Faria Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-10-15</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8766.60</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="mucus and chest congestion">
+		<lahtekoht>Sedona Airport</lahtekoht>
+		<sihtkoht>Trinidad Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-10-31</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4852.92</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="healthy accents ranitidine">
+		<lahtekoht>Khashm El Girba Airport</lahtekoht>
+		<sihtkoht>Embessa Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-13</alguskuupaev>
+			<loppkuupaev>2024-10-22</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>2556.88</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Bromfenac">
+		<lahtekoht>Igdir Airport</lahtekoht>
+		<sihtkoht>Ancona Falconara Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-12</alguskuupaev>
+			<loppkuupaev>2024-10-17</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>4389.31</koguhind>
+		<reisigrupi_suurus>17</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="Hydrocortisone">
+		<lahtekoht>Ejin Banner-Taolai Airport</lahtekoht>
+		<sihtkoht>Pasni Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-18</alguskuupaev>
+			<loppkuupaev>2024-11-03</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>7431.87</koguhind>
+		<reisigrupi_suurus>11</reisigrupi_suurus>
+	</reis>
+	<reis reisinimi="LEADER ISOPROPYL Alcohol Wipes">
+		<lahtekoht>Feijó Airport</lahtekoht>
+		<sihtkoht>Bluefields Airport</sihtkoht>
+		<reisikuupaev>
+			<alguskuupaev>2024-09-15</alguskuupaev>
+			<loppkuupaev>2024-11-11</loppkuupaev>
+		</reisikuupaev>
+		<koguhind>8405.97</koguhind>
+		<reisigrupi_suurus>10</reisigrupi_suurus>
+	</reis>
+</reisid>
